@@ -1,6 +1,7 @@
 # CoFI: Consistency-Guided Fault Injection for Cloud Systems
 
-CoFI is a tool for injecting network partitions when testing cloud systems.
+**CoFI** (**Co**nsistency-guided **F**ault **I**njection) 
+is a tool for injecting network partitions when testing cloud systems.
 
 We observe that, network partitions can leave cloud systems in inconsistent
 states, where *partition bugs* (bugs triggered by network partitions) are more 
@@ -40,7 +41,7 @@ Bug ID | Failure Symptom
 ## Publication
 
 If you are interested in how network partitions affect cloud systems and 
-how CoFI effectively and efficiently detect partition bugs,
+how CoFI effectively and efficiently detects partition bugs,
 you can find more details in our paper listed below.
 If you use our tool, please cite our paper.
 
