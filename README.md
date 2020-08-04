@@ -45,9 +45,9 @@ how CoFI effectively and efficiently detects partition bugs,
 you can find more details in our paper listed below.
 If you use our tool, please cite our paper.
 
-**CoFI: Consistency-Guided Fault Injection for Cloud Systems**\
+**CoFI: Consistency-Guided Fault Injection for Cloud Systems**<br/>
 [Haicheng Chen](http://web.cse.ohio-state.edu/~chen.4800/),
 [Wensheng Dou](http://www.tcse.cn/~wsdou/),
 [Dong Wang](http://www.tcse.cn/~wangdong18/),
-[Feng Qin](http://web.cse.ohio-state.edu/~qin)\
+[Feng Qin](http://web.cse.ohio-state.edu/~qin)<br/>
 35th IEEE/ACM International Conference on Automated Software Engineering (ASE 2020)
