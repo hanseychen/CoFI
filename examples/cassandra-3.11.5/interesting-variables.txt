@@ -1,2 +1,3 @@
 org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(*).applicationState.get().get(-1839152142).value: NODE_STATUS
+org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(*).applicationState.get().get(1816706834).value: NODE_TOKEN
 org.apache.cassandra.config.Schema.instance.keyspaceInstances.get(-1422455755).metadata.name: KEYSPACE_NAME
