@@ -1,0 +1,6 @@
+# Git configuration files.
+.git
+.gitignore
+
+# Example systems.
+examples

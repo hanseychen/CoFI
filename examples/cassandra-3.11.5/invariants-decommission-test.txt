@@ -1,0 +1,497 @@
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s-2019703423_of_td146_nd859798063_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td99_nd859798062:::UNUSED
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == "NORMAL,3074457345618258602"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == "NORMAL,-9223372036854775808"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "LEAVING,-3074457345618258603", "LEFT,-3074457345618258603,1588259549793" }
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s1311698245_of_td102_nd859798063_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td104_nd859798064:::UNUSED
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == "NORMAL,-9223372036854775808"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == "NORMAL,3074457345618258602"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "LEAVING,-3074457345618258603", "NORMAL,-3074457345618258603" }
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s1311698245_of_td102_nd859798063_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td99_nd859798062:::UNUSED
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value one of { "", "NORMAL,3074457345618258602" }
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value one of { "", "NORMAL,-9223372036854775808" }
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "", "LEAVING,-3074457345618258603" }
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s1311698245_of_td104_nd859798064_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td102_nd859798063:::UNUSED
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value one of { "", "NORMAL,3074457345618258602" }
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value one of { "", "NORMAL,-9223372036854775808" }
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value one of { "", "c0c0a90b-57f1-4a56-8b53-57d195f18725" }
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "", "LEAVING,-3074457345618258603", "LEFT,-3074457345618258603,1588259549793" }
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value one of { "", "515eb33e-e495-4e80-bd1e-eba34a6272a0" }
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s1311698245_of_td104_nd859798064_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td99_nd859798062:::UNUSED
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == "NORMAL,3074457345618258602"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value one of { "NORMAL,-9223372036854775808", "shutdown,true" }
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "LEAVING,-3074457345618258603", "LEFT,-3074457345618258603,1588259549793", "NORMAL,-3074457345618258603" }
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s1311698245_of_td99_nd859798062_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td102_nd859798063:::UNUSED
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value one of { "", "NORMAL,3074457345618258602" }
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == "NORMAL,-9223372036854775808"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value >= nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value != nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value < nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value != nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value != nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value < nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value < nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value != nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value != nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value < nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value > nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value > nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value > nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value > nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value > nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s1311698245_of_td99_nd859798062_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td104_nd859798064:::UNUSED
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value one of { "", "NORMAL,3074457345618258602" }
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == "NORMAL,-9223372036854775808"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value != nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value < nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value >= nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value != nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value != nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value < nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value > nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value > nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value > nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value > nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value > nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value > nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value != nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value != nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value > nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s1362729916_of_td146_nd859798063_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td104_nd859798064:::UNUSED
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == "NORMAL,-9223372036854775808"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == "NORMAL,3074457345618258602"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "LEAVING,-3074457345618258603", "LEFT,-3074457345618258603,1588259549793" }
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "LEAVING,-3074457345618258603", "LEFT,-3074457345618258603,1588259549793" }
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s1362729916_of_td146_nd859798063_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td99_nd859798062:::UNUSED
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == "NORMAL,3074457345618258602"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == "NORMAL,-9223372036854775808"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "LEAVING,-3074457345618258603", "LEFT,-3074457345618258603,1588259549793" }
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s1362729916_of_td149_nd859798064_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td102_nd859798063:::UNUSED
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value one of { "", "NORMAL,3074457345618258602" }
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "", "LEAVING,-3074457345618258603" }
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == "NORMAL,-9223372036854775808"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s1362729916_of_td149_nd859798064_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td99_nd859798062:::UNUSED
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == "NORMAL,3074457345618258602"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == "NORMAL,-9223372036854775808"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "LEFT,-3074457345618258603,1588259549793", "NORMAL,-3074457345618258603" }
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s1362729916_of_td56_nd859798062_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td102_nd859798063:::UNUSED
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value one of { "", "NORMAL,3074457345618258602" }
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "", "LEAVING,-3074457345618258603" }
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == "NORMAL,-9223372036854775808"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s1362729916_of_td56_nd859798062_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td104_nd859798064:::UNUSED
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == "NORMAL,-9223372036854775808"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == "NORMAL,3074457345618258602"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "LEAVING,-3074457345618258603", "LEFT,-3074457345618258603,1588259549793" }
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s165905640_of_td155_nd859798064_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-829379915_of_td155_nd859798062:::UNUSED
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == "NORMAL,3074457345618258602"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == "NORMAL,-9223372036854775808"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == "NORMAL,-3074457345618258603"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s49658310_of_td102_nd859798063_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td104_nd859798064:::UNUSED
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == "NORMAL,3074457345618258602"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == "NORMAL,-9223372036854775808"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == "LEAVING,-3074457345618258603"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s49658310_of_td102_nd859798063_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td99_nd859798062:::UNUSED
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == "NORMAL,3074457345618258602"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == "NORMAL,-9223372036854775808"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "LEFT,-3074457345618258603,1588259549793", "NORMAL,-3074457345618258603" }
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s49658310_of_td104_nd859798064_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td102_nd859798063:::UNUSED
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value one of { "", "NORMAL,3074457345618258602" }
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value one of { "", "NORMAL,-9223372036854775808" }
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "", "LEAVING,-3074457345618258603", "NORMAL,-3074457345618258603" }
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s49658310_of_td104_nd859798064_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td99_nd859798062:::UNUSED
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == "NORMAL,-9223372036854775808"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == "NORMAL,3074457345618258602"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "LEAVING,-3074457345618258603", "LEFT,-3074457345618258603,1588259549793" }
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s49658310_of_td99_nd859798062_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td102_nd859798063:::UNUSED
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798063-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value one of { "", "NORMAL,-9223372036854775808" }
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value one of { "", "NORMAL,3074457345618258602" }
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "", "LEAVING,-3074457345618258603" }
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+Exiting Daikon.
+Daikon version 5.7.2, released November 7, 2018; http://plse.cs.washington.edu/daikon.
+Reading declaration files Processing trace data; reading 1 dtrace file:
+
+===========================================================================
+org.apache.cassandra.net.MessagingService.sendOneWay_at_s49658310_of_td99_nd859798062_and_org.apache.cassandra.net.MessageDeliveryTask.run_at_s-1387504704_of_td104_nd859798064:::UNUSED
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == nd859798064-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(-1839152142).value == "NORMAL,3074457345618258602"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(-1839152142).value == "NORMAL,-9223372036854775808"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(1816706834).value == "c0c0a90b-57f1-4a56-8b53-57d195f18725"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798063).applicationState.get().get(-1839152142).value one of { "LEFT,-3074457345618258603,1588259549793", "NORMAL,-3074457345618258603" }
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798062).applicationState.get().get(1816706834).value == "515eb33e-e495-4e80-bd1e-eba34a6272a0"
+nd859798062-org.apache.cassandra.gms.Gossiper.instance.endpointStateMap.get(859798064).applicationState.get().get(1816706834).value == "2a9e88a9-5620-4dec-bca3-908b80b967ec"
+Exiting Daikon.

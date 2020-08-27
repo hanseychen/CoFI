@@ -1,0 +1,6 @@
+# IntelliJ's project files
+.idea
+cofi.iml
+
+# Apple's directory management
+.DS_Store

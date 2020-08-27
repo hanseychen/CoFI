@@ -1,0 +1,2 @@
+<org.apache.cassandra.gms.EndpointState: java.util.concurrent.atomic.AtomicReference applicationState>
+org.apache.cassandra.gms.VersionedValue
