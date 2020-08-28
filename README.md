@@ -36,10 +36,8 @@ Bug ID | Failure Symptom
 
 ## Getting Started
 
-The easiest way to build and run CoFI is using Docker.
-You can directly download the docker images of CoFI and its example systems
-and starting testing an example system using CoFI.
-Or you can following this tutorials to build the docker images from scratch.
+The easiest way to build and run CoFI is using Docker. This tutorial will guide
+you to build the docker images from scratch.
 
 ### Building CoFI's Docker Image
 
