@@ -37,7 +37,7 @@ Bug ID | Failure Symptom
 ## Getting Started
 
 The easiest way to build and run CoFI is using Docker. This tutorial will guide
-you to build the docker images from scratch.
+you to build the docker images from scratch and apply CoFI to test Cassandra.
 
 ### Building CoFI's Docker Image
 
