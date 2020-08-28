@@ -119,7 +119,7 @@ how CoFI effectively and efficiently detects partition bugs,
 you can find more details in our paper listed below.
 If you use our tool, please cite our paper.
 
-**CoFI: Consistency-Guided Fault Injection for Cloud Systems**<br/>
+**CoFI: Consistency-Guided Fault Injection for Cloud Systems** [[preprint](https://hanseychen.github.io/resources/CoFI.pdf)]<br/>
 [Haicheng Chen](https://hanseychen.github.io),
 [Wensheng Dou](http://www.tcse.cn/~wsdou/),
 [Dong Wang](http://www.tcse.cn/~wangdong18/),
