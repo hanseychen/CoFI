@@ -18,4 +18,4 @@ parse
 pycodestyle
 psutil
 pycassa
-thrift==0.9.3
+thrift==0.24.0
